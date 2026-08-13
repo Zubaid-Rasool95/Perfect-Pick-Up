@@ -76,6 +76,36 @@ export async function listVendors({
   };
 }
 
+/**
+ * The city the directory should name in its header.
+ *
+ * Derived from the live roster rather than hardcoded — whichever city has the
+ * most active restaurants wins, and a mixed roster is reported honestly so the
+ * page never claims to cover somewhere it doesn't.
+ */
+export async function getDirectoryLocation(): Promise<string | null> {
+  const supabase = await createClient();
+  const { data } = await supabase
+    .from("vendors")
+    .select("city")
+    .eq("is_active", true)
+    .not("city", "is", null);
+
+  if (!data?.length) return null;
+
+  const counts = new Map<string, number>();
+  for (const row of data) {
+    const city = row.city as string;
+    counts.set(city, (counts.get(city) ?? 0) + 1);
+  }
+
+  const ranked = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+  const [topCity] = ranked[0];
+
+  if (ranked.length === 1) return topCity;
+  return `${topCity} +${ranked.length - 1} more`;
+}
+
 export async function listCuisines(): Promise<string[]> {
   const supabase = await createClient();
   const { data } = await supabase

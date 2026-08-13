@@ -4,7 +4,12 @@ import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { VendorCard } from "@/components/vendors/VendorCard";
 import { VendorFilters } from "@/components/vendors/VendorFilters";
-import { listCuisines, listVendors, type VendorSort } from "@/lib/data/vendors";
+import {
+  getDirectoryLocation,
+  listCuisines,
+  listVendors,
+  type VendorSort,
+} from "@/lib/data/vendors";
 
 export const metadata: Metadata = {
   title: "Restaurants",
@@ -28,9 +33,10 @@ export default async function Page({
   const cuisine = params.cuisine ?? "All";
   const sort = toSort(params.sort);
 
-  const [{ vendors, total, pageCount }, cuisines] = await Promise.all([
+  const [{ vendors, total, pageCount }, cuisines, location] = await Promise.all([
     listVendors({ search, cuisine, sort, page }),
     listCuisines(),
+    getDirectoryLocation(),
   ]);
 
   /** Preserve the current filters when only the page number changes. */
@@ -67,13 +73,17 @@ export default async function Page({
                 <div className="flex items-center gap-md font-body-sm text-on-surface-variant">
                   <span className="flex items-center gap-xs">
                     <span className="text-primary font-bold">{total}</span>
-                    {total === 1 ? "Restaurant" : "Restaurants"} Near You
+                    {total === 1 ? "Restaurant" : "Restaurants"}
                   </span>
-                  <div className="h-4 w-px bg-outline-variant/30" />
-                  <span className="flex items-center gap-xs">
-                    <span className="material-symbols-outlined text-[18px]">location_on</span>
-                    Manhattan, NY
-                  </span>
+                  {location ? (
+                    <>
+                      <div className="h-4 w-px bg-outline-variant/30" />
+                      <span className="flex items-center gap-xs">
+                        <span className="material-symbols-outlined text-[18px]">location_on</span>
+                        {location}
+                      </span>
+                    </>
+                  ) : null}
                 </div>
               </div>
 

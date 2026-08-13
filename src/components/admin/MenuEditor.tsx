@@ -10,6 +10,7 @@ import {
   toggleMenuItemAvailability,
   type MenuFormState,
 } from "@/app/actions/menu";
+import { ImageUploader } from "@/components/media/ImageUploader";
 import { money } from "@/lib/format";
 import type { MenuCategory, MenuItem, Vendor } from "@/lib/types/database";
 
@@ -357,20 +358,18 @@ function ItemForm({
           />
         </div>
 
-        <div className="space-y-xs md:col-span-3">
-          <label className={LABEL} htmlFor="item-image">
-            Image URL
-          </label>
-          <input
-            id="item-image"
+        <div className="md:col-span-3">
+          <ImageUploader
             name="imageUrl"
-            type="url"
-            className={FIELD}
-            defaultValue={item?.image_url ?? ""}
-            placeholder="https://…"
+            label="Dish Photo"
+            folder="menu"
+            defaultValue={item?.image_url}
+            hint="Optional. Dishes with a photo get a larger card on the menu."
           />
           {state.fieldErrors?.imageUrl ? (
-            <p className="font-body-sm text-body-sm text-error">{state.fieldErrors.imageUrl[0]}</p>
+            <p className="font-body-sm text-body-sm text-error mt-xs">
+              {state.fieldErrors.imageUrl[0]}
+            </p>
           ) : null}
         </div>
 

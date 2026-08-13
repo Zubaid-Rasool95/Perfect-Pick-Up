@@ -3,6 +3,7 @@
 import { useActionState, useState } from "react";
 import { useFormStatus } from "react-dom";
 import { createVendor, updateVendor, type VendorFormState } from "@/app/actions/vendors";
+import { ImageUploader } from "@/components/media/ImageUploader";
 import type { Vendor } from "@/lib/types/database";
 
 const FIELD =
@@ -169,16 +170,32 @@ export function VendorForm({
           />
         </Field>
 
-        <Field name="heroImageUrl" label="Hero Image URL" errors={errors} span={3}>
-          <input
-            id="vendor-heroImageUrl"
+        <div className="md:col-span-2">
+          <ImageUploader
             name="heroImageUrl"
-            type="url"
-            className={FIELD}
-            defaultValue={vendor?.hero_image_url ?? ""}
-            placeholder="https://…"
+            label="Hero Image"
+            folder="vendors"
+            defaultValue={vendor?.hero_image_url}
+            hint="Shown across the directory card and the top of the restaurant page. Landscape works best, at least 1200px wide."
           />
-        </Field>
+          {errors?.heroImageUrl ? (
+            <p className="font-body-sm text-body-sm text-error mt-xs">{errors.heroImageUrl[0]}</p>
+          ) : null}
+        </div>
+
+        <div>
+          <ImageUploader
+            name="logoUrl"
+            label="Logo"
+            folder="logos"
+            aspect="square"
+            defaultValue={vendor?.logo_url}
+            hint="Square, on a transparent or plain background."
+          />
+          {errors?.logoUrl ? (
+            <p className="font-body-sm text-body-sm text-error mt-xs">{errors.logoUrl[0]}</p>
+          ) : null}
+        </div>
       </fieldset>
 
       <fieldset className="grid grid-cols-1 md:grid-cols-3 gap-md">

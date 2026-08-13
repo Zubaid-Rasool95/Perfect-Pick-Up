@@ -74,9 +74,19 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                   </div>
                 </div>
 
-                <h1 className="font-display-lg text-display-lg-mobile md:text-display-lg text-on-surface uppercase leading-none">
-                  {vendor.name}
-                </h1>
+                <div className="flex items-center gap-md">
+                  {vendor.logo_url ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      alt=""
+                      src={vendor.logo_url}
+                      className="w-16 h-16 md:w-20 md:h-20 rounded-xl object-cover bg-surface-container border border-outline-variant/20 shrink-0"
+                    />
+                  ) : null}
+                  <h1 className="font-display-lg text-display-lg-mobile md:text-display-lg text-on-surface uppercase leading-none">
+                    {vendor.name}
+                  </h1>
+                </div>
 
                 {vendor.tagline ? (
                   <p className="font-body-lg text-body-lg text-on-surface-variant">{vendor.tagline}</p>

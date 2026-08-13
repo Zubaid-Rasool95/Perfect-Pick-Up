@@ -29,6 +29,15 @@ export function VendorCard({ vendor }: { vendor: Vendor }) {
           </span>
         ) : null}
 
+        {vendor.logo_url ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            alt=""
+            src={vendor.logo_url}
+            className="absolute bottom-sm left-sm w-12 h-12 rounded-lg object-cover bg-surface border border-outline-variant/30 shadow-lg"
+          />
+        ) : null}
+
         <div className="absolute top-sm right-sm bg-surface/85 backdrop-blur-md px-sm py-xs rounded flex items-center gap-xs">
           <span
             className="material-symbols-outlined text-primary text-[14px]"
