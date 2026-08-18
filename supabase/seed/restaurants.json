@@ -13,11 +13,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Big Mac", "description": "Two beef patties, special sauce, lettuce, cheese, pickles, onions.", "price_cents": 599, "is_signature": true },
-      { "name": "Quarter Pounder with Cheese", "description": "Quarter pound of fresh beef, two slices of cheese, onions, pickles.", "price_cents": 649 },
-      { "name": "10 pc Chicken McNuggets", "description": "Tender white meat chicken with your choice of dipping sauce.", "price_cents": 549 },
-      { "name": "Large World Famous Fries", "description": "Golden, crispy, lightly salted.", "price_cents": 379, "is_signature": true },
-      { "name": "McFlurry with Oreo", "description": "Vanilla soft serve with Oreo cookie pieces.", "price_cents": 429 }
+      {
+        "name": "Big Mac",
+        "description": "Two beef patties, special sauce, lettuce, cheese, pickles, onions.",
+        "price_cents": 599,
+        "is_signature": true
+      },
+      {
+        "name": "Quarter Pounder with Cheese",
+        "description": "Quarter pound of fresh beef, two slices of cheese, onions, pickles.",
+        "price_cents": 649
+      },
+      {
+        "name": "10 pc Chicken McNuggets",
+        "description": "Tender white meat chicken with your choice of dipping sauce.",
+        "price_cents": 549
+      },
+      {
+        "name": "Large World Famous Fries",
+        "description": "Golden, crispy, lightly salted.",
+        "price_cents": 379,
+        "is_signature": true
+      },
+      {
+        "name": "McFlurry with Oreo",
+        "description": "Vanilla soft serve with Oreo cookie pieces.",
+        "price_cents": 429
+      }
     ]
   },
   {
@@ -34,11 +56,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Whopper", "description": "Flame-grilled beef, tomatoes, lettuce, mayo, pickles, onions on a sesame bun.", "price_cents": 699, "is_signature": true },
-      { "name": "Bacon King", "description": "Two flame-grilled patties, thick-cut bacon, American cheese.", "price_cents": 849 },
-      { "name": "8 pc Chicken Fries", "description": "Crispy chicken in a fry shape. Dipping sauce included.", "price_cents": 429 },
-      { "name": "Onion Rings", "description": "Golden battered onion rings.", "price_cents": 329 },
-      { "name": "Chocolate Shake", "description": "Thick and creamy, hand-spun.", "price_cents": 399 }
+      {
+        "name": "Whopper",
+        "description": "Flame-grilled beef, tomatoes, lettuce, mayo, pickles, onions on a sesame bun.",
+        "price_cents": 699,
+        "is_signature": true
+      },
+      {
+        "name": "Bacon King",
+        "description": "Two flame-grilled patties, thick-cut bacon, American cheese.",
+        "price_cents": 849
+      },
+      {
+        "name": "8 pc Chicken Fries",
+        "description": "Crispy chicken in a fry shape. Dipping sauce included.",
+        "price_cents": 429
+      },
+      {
+        "name": "Onion Rings",
+        "description": "Golden battered onion rings.",
+        "price_cents": 329
+      },
+      {
+        "name": "Chocolate Shake",
+        "description": "Thick and creamy, hand-spun.",
+        "price_cents": 399
+      }
     ]
   },
   {
@@ -55,11 +98,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Dave's Single", "description": "Quarter pound of fresh beef, cheese, lettuce, tomato, pickle, onion.", "price_cents": 679, "is_signature": true },
-      { "name": "Baconator", "description": "Two patties, six strips of applewood smoked bacon, cheese.", "price_cents": 899, "is_signature": true },
-      { "name": "Spicy Chicken Sandwich", "description": "Breaded spicy chicken breast, lettuce, tomato, mayo.", "price_cents": 649 },
-      { "name": "Chili (Large)", "description": "Slow-simmered beef chili with beans.", "price_cents": 379 },
-      { "name": "Chocolate Frosty", "description": "Not quite a shake, not quite ice cream.", "price_cents": 279 }
+      {
+        "name": "Dave's Single",
+        "description": "Quarter pound of fresh beef, cheese, lettuce, tomato, pickle, onion.",
+        "price_cents": 679,
+        "is_signature": true
+      },
+      {
+        "name": "Baconator",
+        "description": "Two patties, six strips of applewood smoked bacon, cheese.",
+        "price_cents": 899,
+        "is_signature": true
+      },
+      {
+        "name": "Spicy Chicken Sandwich",
+        "description": "Breaded spicy chicken breast, lettuce, tomato, mayo.",
+        "price_cents": 649
+      },
+      {
+        "name": "Chili (Large)",
+        "description": "Slow-simmered beef chili with beans.",
+        "price_cents": 379
+      },
+      {
+        "name": "Chocolate Frosty",
+        "description": "Not quite a shake, not quite ice cream.",
+        "price_cents": 279
+      }
     ]
   },
   {
@@ -76,11 +141,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Famous Star with Cheese", "description": "Charbroiled beef, lettuce, tomato, onion, pickles, special sauce.", "price_cents": 599, "is_signature": true },
-      { "name": "1/3 lb Original Thickburger", "description": "Charbroiled Angus beef, cheese, lettuce, tomato, onion.", "price_cents": 799 },
-      { "name": "Hand-Breaded Chicken Tenders (5 pc)", "description": "Breaded in-house, served with dipping sauce.", "price_cents": 649 },
-      { "name": "Crispy Curls", "description": "Seasoned curly fries.", "price_cents": 329 },
-      { "name": "Hot Ham 'N' Cheese", "description": "Sliced ham and melted Swiss on a toasted bun.", "price_cents": 549 }
+      {
+        "name": "Famous Star with Cheese",
+        "description": "Charbroiled beef, lettuce, tomato, onion, pickles, special sauce.",
+        "price_cents": 599,
+        "is_signature": true
+      },
+      {
+        "name": "1/3 lb Original Thickburger",
+        "description": "Charbroiled Angus beef, cheese, lettuce, tomato, onion.",
+        "price_cents": 799
+      },
+      {
+        "name": "Hand-Breaded Chicken Tenders (5 pc)",
+        "description": "Breaded in-house, served with dipping sauce.",
+        "price_cents": 649
+      },
+      {
+        "name": "Crispy Curls",
+        "description": "Seasoned curly fries.",
+        "price_cents": 329
+      },
+      {
+        "name": "Hot Ham 'N' Cheese",
+        "description": "Sliced ham and melted Swiss on a toasted bun.",
+        "price_cents": 549
+      }
     ]
   },
   {
@@ -97,11 +183,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 349,
     "menu": [
-      { "name": "8 pc Original Recipe Bucket", "description": "The Colonel's 11 herbs and spices. Serves 4.", "price_cents": 2199, "is_signature": true },
-      { "name": "Chicken Sandwich", "description": "Extra crispy filet, pickles, mayo on a brioche bun.", "price_cents": 599 },
-      { "name": "Famous Bowl", "description": "Mashed potatoes, corn, crispy chicken, gravy and cheese.", "price_cents": 649, "is_signature": true },
-      { "name": "Mac & Cheese", "description": "Creamy, cheesy, classic.", "price_cents": 329 },
-      { "name": "Buttermilk Biscuit", "description": "Warm, flaky, baked fresh.", "price_cents": 149 }
+      {
+        "name": "8 pc Original Recipe Bucket",
+        "description": "The Colonel's 11 herbs and spices. Serves 4.",
+        "price_cents": 2199,
+        "is_signature": true
+      },
+      {
+        "name": "Chicken Sandwich",
+        "description": "Extra crispy filet, pickles, mayo on a brioche bun.",
+        "price_cents": 599
+      },
+      {
+        "name": "Famous Bowl",
+        "description": "Mashed potatoes, corn, crispy chicken, gravy and cheese.",
+        "price_cents": 649,
+        "is_signature": true
+      },
+      {
+        "name": "Mac & Cheese",
+        "description": "Creamy, cheesy, classic.",
+        "price_cents": 329
+      },
+      {
+        "name": "Buttermilk Biscuit",
+        "description": "Warm, flaky, baked fresh.",
+        "price_cents": 149
+      }
     ]
   },
   {
@@ -118,11 +226,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 349,
     "menu": [
-      { "name": "Chicken Sandwich", "description": "Buttermilk battered filet, barrel-cured pickles, brioche bun.", "price_cents": 599, "is_signature": true },
-      { "name": "8 pc Signature Chicken", "description": "Marinated 12 hours, hand-battered, Louisiana seasoned.", "price_cents": 1999 },
-      { "name": "Red Beans & Rice", "description": "Slow-simmered with Cajun seasoning.", "price_cents": 329 },
-      { "name": "Cajun Fries", "description": "Seasoned with the Louisiana spice blend.", "price_cents": 349 },
-      { "name": "Buttermilk Biscuit", "description": "Flaky and buttery.", "price_cents": 139 }
+      {
+        "name": "Chicken Sandwich",
+        "description": "Buttermilk battered filet, barrel-cured pickles, brioche bun.",
+        "price_cents": 599,
+        "is_signature": true
+      },
+      {
+        "name": "8 pc Signature Chicken",
+        "description": "Marinated 12 hours, hand-battered, Louisiana seasoned.",
+        "price_cents": 1999
+      },
+      {
+        "name": "Red Beans & Rice",
+        "description": "Slow-simmered with Cajun seasoning.",
+        "price_cents": 329
+      },
+      {
+        "name": "Cajun Fries",
+        "description": "Seasoned with the Louisiana spice blend.",
+        "price_cents": 349
+      },
+      {
+        "name": "Buttermilk Biscuit",
+        "description": "Flaky and buttery.",
+        "price_cents": 139
+      }
     ]
   },
   {
@@ -139,11 +268,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Crunchwrap Supreme", "description": "Seasoned beef, nacho cheese, lettuce, tomato, sour cream, grilled.", "price_cents": 599, "is_signature": true },
-      { "name": "3 Soft Tacos", "description": "Seasoned beef, lettuce and cheddar in soft tortillas.", "price_cents": 549 },
-      { "name": "Chicken Quesadilla", "description": "Grilled chicken, three-cheese blend, creamy jalapeño sauce.", "price_cents": 549 },
-      { "name": "Nachos BellGrande", "description": "Chips, beans, beef, nacho cheese, tomatoes and sour cream.", "price_cents": 599 },
-      { "name": "Cinnamon Twists", "description": "Light, crispy, dusted with cinnamon sugar.", "price_cents": 219 }
+      {
+        "name": "Crunchwrap Supreme",
+        "description": "Seasoned beef, nacho cheese, lettuce, tomato, sour cream, grilled.",
+        "price_cents": 599,
+        "is_signature": true
+      },
+      {
+        "name": "3 Soft Tacos",
+        "description": "Seasoned beef, lettuce and cheddar in soft tortillas.",
+        "price_cents": 549
+      },
+      {
+        "name": "Chicken Quesadilla",
+        "description": "Grilled chicken, three-cheese blend, creamy jalapeño sauce.",
+        "price_cents": 549
+      },
+      {
+        "name": "Nachos BellGrande",
+        "description": "Chips, beans, beef, nacho cheese, tomatoes and sour cream.",
+        "price_cents": 599
+      },
+      {
+        "name": "Cinnamon Twists",
+        "description": "Light, crispy, dusted with cinnamon sugar.",
+        "price_cents": 219
+      }
     ]
   },
   {
@@ -160,11 +310,32 @@
     "min_order_cents": 1500,
     "service_fee_cents": 499,
     "menu": [
-      { "name": "Riblets Platter", "description": "Slow-cooked pork riblets with your choice of sauce and fries.", "price_cents": 1699, "is_signature": true },
-      { "name": "Bourbon Street Chicken & Shrimp", "description": "Cajun-seasoned chicken and shrimp on a sizzling skillet.", "price_cents": 1899 },
-      { "name": "Classic Bacon Cheeseburger", "description": "Applewood bacon, cheddar, lettuce, tomato, pickles.", "price_cents": 1399 },
-      { "name": "Spinach & Artichoke Dip", "description": "Served warm with tortilla chips.", "price_cents": 1099 },
-      { "name": "Blondie", "description": "Warm blonde brownie, walnuts, vanilla ice cream, maple butter sauce.", "price_cents": 899 }
+      {
+        "name": "Riblets Platter",
+        "description": "Slow-cooked pork riblets with your choice of sauce and fries.",
+        "price_cents": 1699,
+        "is_signature": true
+      },
+      {
+        "name": "Bourbon Street Chicken & Shrimp",
+        "description": "Cajun-seasoned chicken and shrimp on a sizzling skillet.",
+        "price_cents": 1899
+      },
+      {
+        "name": "Classic Bacon Cheeseburger",
+        "description": "Applewood bacon, cheddar, lettuce, tomato, pickles.",
+        "price_cents": 1399
+      },
+      {
+        "name": "Spinach & Artichoke Dip",
+        "description": "Served warm with tortilla chips.",
+        "price_cents": 1099
+      },
+      {
+        "name": "Blondie",
+        "description": "Warm blonde brownie, walnuts, vanilla ice cream, maple butter sauce.",
+        "price_cents": 899
+      }
     ]
   },
   {
@@ -181,11 +352,33 @@
     "min_order_cents": 2000,
     "service_fee_cents": 599,
     "menu": [
-      { "name": "Ultimate Feast", "description": "Lobster tail, snow crab, garlic shrimp and Walt's Favorite Shrimp.", "price_cents": 3499, "is_signature": true },
-      { "name": "Shrimp Linguini Alfredo", "description": "Shrimp over linguini in a creamy Parmesan alfredo.", "price_cents": 1999 },
-      { "name": "Cheddar Bay Biscuits (6)", "description": "Warm, garlicky, cheesy. The reason people come.", "price_cents": 599, "is_signature": true },
-      { "name": "Lobster Bisque", "description": "Creamy bisque with chunks of lobster.", "price_cents": 899 },
-      { "name": "Snow Crab Legs", "description": "Steamed and served with drawn butter.", "price_cents": 3999 }
+      {
+        "name": "Ultimate Feast",
+        "description": "Lobster tail, snow crab, garlic shrimp and Walt's Favorite Shrimp.",
+        "price_cents": 3499,
+        "is_signature": true
+      },
+      {
+        "name": "Shrimp Linguini Alfredo",
+        "description": "Shrimp over linguini in a creamy Parmesan alfredo.",
+        "price_cents": 1999
+      },
+      {
+        "name": "Cheddar Bay Biscuits (6)",
+        "description": "Warm, garlicky, cheesy. The reason people come.",
+        "price_cents": 599,
+        "is_signature": true
+      },
+      {
+        "name": "Lobster Bisque",
+        "description": "Creamy bisque with chunks of lobster.",
+        "price_cents": 899
+      },
+      {
+        "name": "Snow Crab Legs",
+        "description": "Steamed and served with drawn butter.",
+        "price_cents": 3999
+      }
     ]
   },
   {
@@ -202,11 +395,33 @@
     "min_order_cents": 1500,
     "service_fee_cents": 499,
     "menu": [
-      { "name": "Baby Back Ribs", "description": "Slow-smoked in-house, with fries and coleslaw.", "price_cents": 1999, "is_signature": true },
-      { "name": "Big Mouth Bites Burger", "description": "Four mini burgers with bacon, cheddar and house sauce.", "price_cents": 1499 },
-      { "name": "Chicken Crispers", "description": "Hand-battered chicken tenders with honey mustard.", "price_cents": 1599 },
-      { "name": "Skillet Queso", "description": "Melted cheese and seasoned beef with warm chips.", "price_cents": 899, "is_signature": true },
-      { "name": "Molten Chocolate Cake", "description": "Warm chocolate cake with a fudge centre and ice cream.", "price_cents": 899 }
+      {
+        "name": "Baby Back Ribs",
+        "description": "Slow-smoked in-house, with fries and coleslaw.",
+        "price_cents": 1999,
+        "is_signature": true
+      },
+      {
+        "name": "Big Mouth Bites Burger",
+        "description": "Four mini burgers with bacon, cheddar and house sauce.",
+        "price_cents": 1499
+      },
+      {
+        "name": "Chicken Crispers",
+        "description": "Hand-battered chicken tenders with honey mustard.",
+        "price_cents": 1599
+      },
+      {
+        "name": "Skillet Queso",
+        "description": "Melted cheese and seasoned beef with warm chips.",
+        "price_cents": 899,
+        "is_signature": true
+      },
+      {
+        "name": "Molten Chocolate Cake",
+        "description": "Warm chocolate cake with a fudge centre and ice cream.",
+        "price_cents": 899
+      }
     ]
   },
   {
@@ -223,11 +438,33 @@
     "min_order_cents": 2000,
     "service_fee_cents": 599,
     "menu": [
-      { "name": "Bloomin' Onion", "description": "Hand-carved, battered and fried with signature bloom sauce.", "price_cents": 1099, "is_signature": true },
-      { "name": "Center-Cut Sirloin", "description": "Seasoned and seared, with two freshly made sides.", "price_cents": 1999 },
-      { "name": "Ribeye", "description": "Well-marbled and full flavoured, 12 oz.", "price_cents": 2999, "is_signature": true },
-      { "name": "Alice Springs Chicken", "description": "Grilled chicken, bacon, mushrooms, cheese and honey mustard.", "price_cents": 1899 },
-      { "name": "Chocolate Thunder from Down Under", "description": "Pecan brownie, ice cream, chocolate sauce.", "price_cents": 999 }
+      {
+        "name": "Bloomin' Onion",
+        "description": "Hand-carved, battered and fried with signature bloom sauce.",
+        "price_cents": 1099,
+        "is_signature": true
+      },
+      {
+        "name": "Center-Cut Sirloin",
+        "description": "Seasoned and seared, with two freshly made sides.",
+        "price_cents": 1999
+      },
+      {
+        "name": "Ribeye",
+        "description": "Well-marbled and full flavoured, 12 oz.",
+        "price_cents": 2999,
+        "is_signature": true
+      },
+      {
+        "name": "Alice Springs Chicken",
+        "description": "Grilled chicken, bacon, mushrooms, cheese and honey mustard.",
+        "price_cents": 1899
+      },
+      {
+        "name": "Chocolate Thunder from Down Under",
+        "description": "Pecan brownie, ice cream, chocolate sauce.",
+        "price_cents": 999
+      }
     ]
   },
   {
@@ -244,11 +481,33 @@
     "min_order_cents": 1200,
     "service_fee_cents": 449,
     "menu": [
-      { "name": "Chicken n' Dumplins", "description": "Slow-simmered chicken with hand-rolled dumplings.", "price_cents": 1399, "is_signature": true },
-      { "name": "Country Fried Steak", "description": "Hand-breaded and topped with sawmill gravy.", "price_cents": 1499 },
-      { "name": "Momma's Pancake Breakfast", "description": "Buttermilk pancakes, eggs, bacon or sausage.", "price_cents": 1099, "is_signature": true },
-      { "name": "Meatloaf", "description": "Made from scratch with a tomato glaze and two sides.", "price_cents": 1399 },
-      { "name": "Biscuits & Sawmill Gravy", "description": "Buttermilk biscuits under peppered gravy.", "price_cents": 799 }
+      {
+        "name": "Chicken n' Dumplins",
+        "description": "Slow-simmered chicken with hand-rolled dumplings.",
+        "price_cents": 1399,
+        "is_signature": true
+      },
+      {
+        "name": "Country Fried Steak",
+        "description": "Hand-breaded and topped with sawmill gravy.",
+        "price_cents": 1499
+      },
+      {
+        "name": "Momma's Pancake Breakfast",
+        "description": "Buttermilk pancakes, eggs, bacon or sausage.",
+        "price_cents": 1099,
+        "is_signature": true
+      },
+      {
+        "name": "Meatloaf",
+        "description": "Made from scratch with a tomato glaze and two sides.",
+        "price_cents": 1399
+      },
+      {
+        "name": "Biscuits & Sawmill Gravy",
+        "description": "Buttermilk biscuits under peppered gravy.",
+        "price_cents": 799
+      }
     ]
   },
   {
@@ -265,11 +524,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Chick-fil-A Chicken Sandwich", "description": "Pressure-cooked breast, two pickles, toasted buttered bun.", "price_cents": 549, "is_signature": true },
-      { "name": "Spicy Deluxe Sandwich", "description": "Spicy filet, lettuce, tomato and pepper jack cheese.", "price_cents": 679 },
-      { "name": "8 pc Nuggets", "description": "Bite-sized pieces of seasoned chicken breast.", "price_cents": 549 },
-      { "name": "Waffle Potato Fries", "description": "Waffle-cut and cooked in canola oil.", "price_cents": 329, "is_signature": true },
-      { "name": "Cookies & Cream Milkshake", "description": "Hand-spun with Icedream and topped with whipped cream.", "price_cents": 499 }
+      {
+        "name": "Chick-fil-A Chicken Sandwich",
+        "description": "Pressure-cooked breast, two pickles, toasted buttered bun.",
+        "price_cents": 549,
+        "is_signature": true
+      },
+      {
+        "name": "Spicy Deluxe Sandwich",
+        "description": "Spicy filet, lettuce, tomato and pepper jack cheese.",
+        "price_cents": 679
+      },
+      {
+        "name": "8 pc Nuggets",
+        "description": "Bite-sized pieces of seasoned chicken breast.",
+        "price_cents": 549
+      },
+      {
+        "name": "Waffle Potato Fries",
+        "description": "Waffle-cut and cooked in canola oil.",
+        "price_cents": 329,
+        "is_signature": true
+      },
+      {
+        "name": "Cookies & Cream Milkshake",
+        "description": "Hand-spun with Icedream and topped with whipped cream.",
+        "price_cents": 499
+      }
     ]
   },
   {
@@ -286,11 +567,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Big Buford", "description": "Two seasoned beef patties, double American cheese, lettuce, tomato.", "price_cents": 599, "is_signature": true },
-      { "name": "Famous Seasoned Fries", "description": "Bold, crispy, seasoned in the batter.", "price_cents": 299, "is_signature": true },
-      { "name": "Chicken Bites", "description": "Crispy all-white-meat bites with dipping sauce.", "price_cents": 549 },
-      { "name": "Mother Cruncher Chicken Sandwich", "description": "Crunchy chicken filet, pickles and mayo.", "price_cents": 649 },
-      { "name": "Vanilla Milkshake", "description": "Thick, cold and hand-spun.", "price_cents": 399 }
+      {
+        "name": "Big Buford",
+        "description": "Two seasoned beef patties, double American cheese, lettuce, tomato.",
+        "price_cents": 599,
+        "is_signature": true
+      },
+      {
+        "name": "Famous Seasoned Fries",
+        "description": "Bold, crispy, seasoned in the batter.",
+        "price_cents": 299,
+        "is_signature": true
+      },
+      {
+        "name": "Chicken Bites",
+        "description": "Crispy all-white-meat bites with dipping sauce.",
+        "price_cents": 549
+      },
+      {
+        "name": "Mother Cruncher Chicken Sandwich",
+        "description": "Crunchy chicken filet, pickles and mayo.",
+        "price_cents": 649
+      },
+      {
+        "name": "Vanilla Milkshake",
+        "description": "Thick, cold and hand-spun.",
+        "price_cents": 399
+      }
     ]
   },
   {
@@ -307,11 +610,32 @@
     "min_order_cents": 1000,
     "service_fee_cents": 399,
     "menu": [
-      { "name": "Large Pepperoni Pizza", "description": "Classic marinara, mozzarella and pepperoni on original pan crust.", "price_cents": 1499, "is_signature": true },
-      { "name": "Large Meat Lover's", "description": "Pepperoni, ham, beef, pork, Italian sausage and bacon.", "price_cents": 1799 },
-      { "name": "Breadsticks (5)", "description": "Baked and seasoned with marinara for dipping.", "price_cents": 599 },
-      { "name": "Boneless Wings (8)", "description": "Choice of buffalo, BBQ or garlic parmesan.", "price_cents": 899 },
-      { "name": "Cinnabon Mini Rolls", "description": "Warm rolls with cream cheese frosting.", "price_cents": 649 }
+      {
+        "name": "Large Pepperoni Pizza",
+        "description": "Classic marinara, mozzarella and pepperoni on original pan crust.",
+        "price_cents": 1499,
+        "is_signature": true
+      },
+      {
+        "name": "Large Meat Lover's",
+        "description": "Pepperoni, ham, beef, pork, Italian sausage and bacon.",
+        "price_cents": 1799
+      },
+      {
+        "name": "Breadsticks (5)",
+        "description": "Baked and seasoned with marinara for dipping.",
+        "price_cents": 599
+      },
+      {
+        "name": "Boneless Wings (8)",
+        "description": "Choice of buffalo, BBQ or garlic parmesan.",
+        "price_cents": 899
+      },
+      {
+        "name": "Cinnabon Mini Rolls",
+        "description": "Warm rolls with cream cheese frosting.",
+        "price_cents": 649
+      }
     ]
   },
   {
@@ -328,11 +652,33 @@
     "min_order_cents": 1000,
     "service_fee_cents": 399,
     "menu": [
-      { "name": "Pepperoni Magnifico", "description": "Old world pepperoni, Romesan seasoning and three cheeses.", "price_cents": 1699, "is_signature": true },
-      { "name": "Deluxe Uno", "description": "Pepperoni, sausage, mushrooms, green peppers and onions.", "price_cents": 1799 },
-      { "name": "CheezyBread", "description": "Fresh dough with three cheeses and Romesan.", "price_cents": 649, "is_signature": true },
-      { "name": "Chicken Wings (8)", "description": "Choice of BBQ, buffalo or plain.", "price_cents": 999 },
-      { "name": "CinnaSquares", "description": "Warm cinnamon squares with icing.", "price_cents": 599 }
+      {
+        "name": "Pepperoni Magnifico",
+        "description": "Old world pepperoni, Romesan seasoning and three cheeses.",
+        "price_cents": 1699,
+        "is_signature": true
+      },
+      {
+        "name": "Deluxe Uno",
+        "description": "Pepperoni, sausage, mushrooms, green peppers and onions.",
+        "price_cents": 1799
+      },
+      {
+        "name": "CheezyBread",
+        "description": "Fresh dough with three cheeses and Romesan.",
+        "price_cents": 649,
+        "is_signature": true
+      },
+      {
+        "name": "Chicken Wings (8)",
+        "description": "Choice of BBQ, buffalo or plain.",
+        "price_cents": 999
+      },
+      {
+        "name": "CinnaSquares",
+        "description": "Warm cinnamon squares with icing.",
+        "price_cents": 599
+      }
     ]
   },
   {
@@ -349,11 +695,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 349,
     "menu": [
-      { "name": "Orange Chicken Bowl", "description": "Crispy chicken in a sweet and tangy orange sauce over rice.", "price_cents": 899, "is_signature": true },
-      { "name": "Two Entrée Plate", "description": "Choose two entrées with chow mein or fried rice.", "price_cents": 1099 },
-      { "name": "Beijing Beef", "description": "Crispy beef, bell peppers and onions in a sweet-tangy sauce.", "price_cents": 949 },
-      { "name": "Chow Mein", "description": "Wheat noodles with onions, celery and cabbage.", "price_cents": 549 },
-      { "name": "Cream Cheese Rangoon (3)", "description": "Crisp wonton wrappers with cream cheese.", "price_cents": 299 }
+      {
+        "name": "Orange Chicken Bowl",
+        "description": "Crispy chicken in a sweet and tangy orange sauce over rice.",
+        "price_cents": 899,
+        "is_signature": true
+      },
+      {
+        "name": "Two Entrée Plate",
+        "description": "Choose two entrées with chow mein or fried rice.",
+        "price_cents": 1099
+      },
+      {
+        "name": "Beijing Beef",
+        "description": "Crispy beef, bell peppers and onions in a sweet-tangy sauce.",
+        "price_cents": 949
+      },
+      {
+        "name": "Chow Mein",
+        "description": "Wheat noodles with onions, celery and cabbage.",
+        "price_cents": 549
+      },
+      {
+        "name": "Cream Cheese Rangoon (3)",
+        "description": "Crisp wonton wrappers with cream cheese.",
+        "price_cents": 299
+      }
     ]
   },
   {
@@ -370,11 +737,33 @@
     "min_order_cents": 1200,
     "service_fee_cents": 449,
     "menu": [
-      { "name": "Pulled Pork Plate", "description": "Hickory-smoked pork shoulder with two sides.", "price_cents": 1499, "is_signature": true },
-      { "name": "Baby Back Ribs", "description": "Full rack, dry-rubbed and slow-smoked.", "price_cents": 2199 },
-      { "name": "Brisket Plate", "description": "Smoked overnight, sliced to order, with two sides.", "price_cents": 1799 },
-      { "name": "Cheese Biscuits (4)", "description": "Baked fresh all day. The house standard.", "price_cents": 399, "is_signature": true },
-      { "name": "Banana Pudding", "description": "Made from scratch with vanilla wafers.", "price_cents": 599 }
+      {
+        "name": "Pulled Pork Plate",
+        "description": "Hickory-smoked pork shoulder with two sides.",
+        "price_cents": 1499,
+        "is_signature": true
+      },
+      {
+        "name": "Baby Back Ribs",
+        "description": "Full rack, dry-rubbed and slow-smoked.",
+        "price_cents": 2199
+      },
+      {
+        "name": "Brisket Plate",
+        "description": "Smoked overnight, sliced to order, with two sides.",
+        "price_cents": 1799
+      },
+      {
+        "name": "Cheese Biscuits (4)",
+        "description": "Baked fresh all day. The house standard.",
+        "price_cents": 399,
+        "is_signature": true
+      },
+      {
+        "name": "Banana Pudding",
+        "description": "Made from scratch with vanilla wafers.",
+        "price_cents": 599
+      }
     ]
   },
   {
@@ -391,11 +780,32 @@
     "min_order_cents": 1200,
     "service_fee_cents": 449,
     "menu": [
-      { "name": "10 Traditional Wings", "description": "Breaded and fried, tossed in your choice of sauce.", "price_cents": 1499, "is_signature": true },
-      { "name": "10 Boneless Wings", "description": "All-white-meat, tossed in your choice of sauce.", "price_cents": 1299 },
-      { "name": "Curly Fries", "description": "Seasoned and crispy.", "price_cents": 599 },
-      { "name": "Buffalo Shrimp", "description": "Lightly breaded and tossed in buffalo sauce.", "price_cents": 1299 },
-      { "name": "Fried Pickles", "description": "Hand-breaded with ranch for dipping.", "price_cents": 899 }
+      {
+        "name": "10 Traditional Wings",
+        "description": "Breaded and fried, tossed in your choice of sauce.",
+        "price_cents": 1499,
+        "is_signature": true
+      },
+      {
+        "name": "10 Boneless Wings",
+        "description": "All-white-meat, tossed in your choice of sauce.",
+        "price_cents": 1299
+      },
+      {
+        "name": "Curly Fries",
+        "description": "Seasoned and crispy.",
+        "price_cents": 599
+      },
+      {
+        "name": "Buffalo Shrimp",
+        "description": "Lightly breaded and tossed in buffalo sauce.",
+        "price_cents": 1299
+      },
+      {
+        "name": "Fried Pickles",
+        "description": "Hand-breaded with ranch for dipping.",
+        "price_cents": 899
+      }
     ]
   },
   {
@@ -412,11 +822,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "8 pc Chicken Meal", "description": "Cajun-seasoned bone-in chicken with two sides and biscuits.", "price_cents": 1899, "is_signature": true },
-      { "name": "Cajun Filet Biscuit", "description": "Marinated chicken filet on a made-from-scratch biscuit.", "price_cents": 549, "is_signature": true },
-      { "name": "Bo-Tato Rounds", "description": "Seasoned potato rounds.", "price_cents": 349 },
-      { "name": "Dirty Rice", "description": "Cajun-seasoned rice with sausage.", "price_cents": 299 },
-      { "name": "Legendary Iced Tea (Large)", "description": "Brewed fresh, sweet or unsweet.", "price_cents": 279 }
+      {
+        "name": "8 pc Chicken Meal",
+        "description": "Cajun-seasoned bone-in chicken with two sides and biscuits.",
+        "price_cents": 1899,
+        "is_signature": true
+      },
+      {
+        "name": "Cajun Filet Biscuit",
+        "description": "Marinated chicken filet on a made-from-scratch biscuit.",
+        "price_cents": 549,
+        "is_signature": true
+      },
+      {
+        "name": "Bo-Tato Rounds",
+        "description": "Seasoned potato rounds.",
+        "price_cents": 349
+      },
+      {
+        "name": "Dirty Rice",
+        "description": "Cajun-seasoned rice with sausage.",
+        "price_cents": 299
+      },
+      {
+        "name": "Legendary Iced Tea (Large)",
+        "description": "Brewed fresh, sweet or unsweet.",
+        "price_cents": 279
+      }
     ]
   },
   {
@@ -433,11 +865,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "1/4 lb GrillBurger with Cheese", "description": "Flame-grilled beef, cheese, lettuce, tomato, pickles, onions.", "price_cents": 599 },
-      { "name": "Chicken Strip Basket", "description": "Four crispy strips with fries, toast and country gravy.", "price_cents": 799 },
-      { "name": "Oreo Blizzard", "description": "Soft serve blended with Oreo pieces. Served upside down.", "price_cents": 549, "is_signature": true },
-      { "name": "Banana Split", "description": "Three soft serve stripes, banana, strawberry, pineapple, fudge.", "price_cents": 649 },
-      { "name": "Chocolate Dilly Bar", "description": "Soft serve on a stick dipped in chocolate.", "price_cents": 249 }
+      {
+        "name": "1/4 lb GrillBurger with Cheese",
+        "description": "Flame-grilled beef, cheese, lettuce, tomato, pickles, onions.",
+        "price_cents": 599
+      },
+      {
+        "name": "Chicken Strip Basket",
+        "description": "Four crispy strips with fries, toast and country gravy.",
+        "price_cents": 799
+      },
+      {
+        "name": "Oreo Blizzard",
+        "description": "Soft serve blended with Oreo pieces. Served upside down.",
+        "price_cents": 549,
+        "is_signature": true
+      },
+      {
+        "name": "Banana Split",
+        "description": "Three soft serve stripes, banana, strawberry, pineapple, fudge.",
+        "price_cents": 649
+      },
+      {
+        "name": "Chocolate Dilly Bar",
+        "description": "Soft serve on a stick dipped in chocolate.",
+        "price_cents": 249
+      }
     ]
   },
   {
@@ -448,17 +901,39 @@
     "description": "Thin, seared steakburgers and hand-dipped milkshakes since 1934.",
     "address_line": "1197 Peachtree Street NE",
     "lat": 33.7856,
-    "lng": -84.3830,
+    "lng": -84.383,
     "price_level": 1,
     "prep_time_mins": 15,
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Original Double Steakburger", "description": "Two thin-seared patties with pickles, onion and mustard.", "price_cents": 599, "is_signature": true },
-      { "name": "Frisco Melt", "description": "Two steakburgers, Swiss and American on sourdough with Frisco sauce.", "price_cents": 749, "is_signature": true },
-      { "name": "Shoestring Fries", "description": "Thin cut and crispy.", "price_cents": 329 },
-      { "name": "Hand-Dipped Milkshake", "description": "Real ice cream, hand-dipped and spun.", "price_cents": 499 },
-      { "name": "Chili Mac", "description": "House chili over spaghetti with cheese and onion.", "price_cents": 699 }
+      {
+        "name": "Original Double Steakburger",
+        "description": "Two thin-seared patties with pickles, onion and mustard.",
+        "price_cents": 599,
+        "is_signature": true
+      },
+      {
+        "name": "Frisco Melt",
+        "description": "Two steakburgers, Swiss and American on sourdough with Frisco sauce.",
+        "price_cents": 749,
+        "is_signature": true
+      },
+      {
+        "name": "Shoestring Fries",
+        "description": "Thin cut and crispy.",
+        "price_cents": 329
+      },
+      {
+        "name": "Hand-Dipped Milkshake",
+        "description": "Real ice cream, hand-dipped and spun.",
+        "price_cents": 499
+      },
+      {
+        "name": "Chili Mac",
+        "description": "House chili over spaghetti with cheese and onion.",
+        "price_cents": 699
+      }
     ]
   },
   {
@@ -468,18 +943,40 @@
     "cuisine": "Chicken",
     "description": "Hand-battered Southern fried chicken and Honey-Butter Biscuits.",
     "address_line": "1145 Boulevard SE",
-    "lat": 33.7290,
+    "lat": 33.729,
     "lng": -84.3705,
     "price_level": 1,
     "prep_time_mins": 15,
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "10 pc Family Meal", "description": "Bone-in chicken with two large sides and biscuits.", "price_cents": 2199, "is_signature": true },
-      { "name": "Original Chicken Sandwich", "description": "Hand-battered filet, pickles and mayo on a brioche bun.", "price_cents": 549 },
-      { "name": "Honey-Butter Biscuits (3)", "description": "Baked fresh and brushed with honey butter.", "price_cents": 299, "is_signature": true },
-      { "name": "Fried Okra", "description": "Lightly breaded and crispy.", "price_cents": 349 },
-      { "name": "Mac & Cheese", "description": "Creamy and baked.", "price_cents": 329 }
+      {
+        "name": "10 pc Family Meal",
+        "description": "Bone-in chicken with two large sides and biscuits.",
+        "price_cents": 2199,
+        "is_signature": true
+      },
+      {
+        "name": "Original Chicken Sandwich",
+        "description": "Hand-battered filet, pickles and mayo on a brioche bun.",
+        "price_cents": 549
+      },
+      {
+        "name": "Honey-Butter Biscuits (3)",
+        "description": "Baked fresh and brushed with honey butter.",
+        "price_cents": 299,
+        "is_signature": true
+      },
+      {
+        "name": "Fried Okra",
+        "description": "Lightly breaded and crispy.",
+        "price_cents": 349
+      },
+      {
+        "name": "Mac & Cheese",
+        "description": "Creamy and baked.",
+        "price_cents": 329
+      }
     ]
   },
   {
@@ -496,11 +993,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 349,
     "menu": [
-      { "name": "10 pc Wings", "description": "Fried to order and tossed in your choice of sauce.", "price_cents": 1299, "is_signature": true },
-      { "name": "Wing & Burger Combo", "description": "Five wings, a burger and fries.", "price_cents": 1499 },
-      { "name": "Philly Cheesesteak", "description": "Shaved steak, grilled onions and melted cheese.", "price_cents": 1099 },
-      { "name": "Loaded Fries", "description": "Fries topped with cheese, bacon and ranch.", "price_cents": 799 },
-      { "name": "Fried Catfish", "description": "Cornmeal-breaded catfish with fries.", "price_cents": 1199 }
+      {
+        "name": "10 pc Wings",
+        "description": "Fried to order and tossed in your choice of sauce.",
+        "price_cents": 1299,
+        "is_signature": true
+      },
+      {
+        "name": "Wing & Burger Combo",
+        "description": "Five wings, a burger and fries.",
+        "price_cents": 1499
+      },
+      {
+        "name": "Philly Cheesesteak",
+        "description": "Shaved steak, grilled onions and melted cheese.",
+        "price_cents": 1099
+      },
+      {
+        "name": "Loaded Fries",
+        "description": "Fries topped with cheese, bacon and ranch.",
+        "price_cents": 799
+      },
+      {
+        "name": "Fried Catfish",
+        "description": "Cornmeal-breaded catfish with fries.",
+        "price_cents": 1199
+      }
     ]
   },
   {
@@ -517,11 +1035,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Chicken Finger Plate", "description": "Four fingerz, crinkle fries, Texas toast, slaw and Zax sauce.", "price_cents": 999, "is_signature": true },
-      { "name": "Big Zax Snak Meal", "description": "Three fingerz, fries, Texas toast and Zax sauce.", "price_cents": 749 },
-      { "name": "Wings & Things", "description": "Traditional wings and chicken fingerz with fries.", "price_cents": 1199 },
-      { "name": "Crinkle Fries", "description": "Seasoned and crinkle cut.", "price_cents": 399 },
-      { "name": "Nibbler Sandwich", "description": "Two mini fingerz sandwiches with Zax sauce.", "price_cents": 599 }
+      {
+        "name": "Chicken Finger Plate",
+        "description": "Four fingerz, crinkle fries, Texas toast, slaw and Zax sauce.",
+        "price_cents": 999,
+        "is_signature": true
+      },
+      {
+        "name": "Big Zax Snak Meal",
+        "description": "Three fingerz, fries, Texas toast and Zax sauce.",
+        "price_cents": 749
+      },
+      {
+        "name": "Wings & Things",
+        "description": "Traditional wings and chicken fingerz with fries.",
+        "price_cents": 1199
+      },
+      {
+        "name": "Crinkle Fries",
+        "description": "Seasoned and crinkle cut.",
+        "price_cents": 399
+      },
+      {
+        "name": "Nibbler Sandwich",
+        "description": "Two mini fingerz sandwiches with Zax sauce.",
+        "price_cents": 599
+      }
     ]
   },
   {
@@ -538,11 +1077,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "SuperSONIC Double Cheeseburger", "description": "Two patties, melty cheese, lettuce, tomato, pickles and mayo.", "price_cents": 749, "is_signature": true },
-      { "name": "Chili Cheese Coney", "description": "All-beef hot dog with warm chili and shredded cheddar.", "price_cents": 429, "is_signature": true },
-      { "name": "Tots", "description": "Crispy golden tater tots.", "price_cents": 299 },
-      { "name": "Cherry Limeade", "description": "Sonic's signature drink over pellet ice.", "price_cents": 329 },
-      { "name": "Oreo Sonic Blast", "description": "Vanilla soft serve blended with Oreo pieces.", "price_cents": 499 }
+      {
+        "name": "SuperSONIC Double Cheeseburger",
+        "description": "Two patties, melty cheese, lettuce, tomato, pickles and mayo.",
+        "price_cents": 749,
+        "is_signature": true
+      },
+      {
+        "name": "Chili Cheese Coney",
+        "description": "All-beef hot dog with warm chili and shredded cheddar.",
+        "price_cents": 429,
+        "is_signature": true
+      },
+      {
+        "name": "Tots",
+        "description": "Crispy golden tater tots.",
+        "price_cents": 299
+      },
+      {
+        "name": "Cherry Limeade",
+        "description": "Sonic's signature drink over pellet ice.",
+        "price_cents": 329
+      },
+      {
+        "name": "Oreo Sonic Blast",
+        "description": "Vanilla soft serve blended with Oreo pieces.",
+        "price_cents": 499
+      }
     ]
   },
   {
@@ -559,11 +1120,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 349,
     "menu": [
-      { "name": "Batter Dipped Fish (3 pc)", "description": "Hand-dipped and fried, with two sides and hushpuppies.", "price_cents": 999, "is_signature": true },
-      { "name": "Giant Fish Sandwich", "description": "Battered fish filet, lettuce and tartar on a toasted bun.", "price_cents": 649 },
-      { "name": "Grilled Shrimp Skewers", "description": "Seasoned and grilled, with rice and vegetables.", "price_cents": 1199 },
-      { "name": "Hushpuppies (6)", "description": "Sweet cornmeal, fried golden.", "price_cents": 249, "is_signature": true },
-      { "name": "Coleslaw", "description": "Creamy and freshly made.", "price_cents": 249 }
+      {
+        "name": "Batter Dipped Fish (3 pc)",
+        "description": "Hand-dipped and fried, with two sides and hushpuppies.",
+        "price_cents": 999,
+        "is_signature": true
+      },
+      {
+        "name": "Giant Fish Sandwich",
+        "description": "Battered fish filet, lettuce and tartar on a toasted bun.",
+        "price_cents": 649
+      },
+      {
+        "name": "Grilled Shrimp Skewers",
+        "description": "Seasoned and grilled, with rice and vegetables.",
+        "price_cents": 1199
+      },
+      {
+        "name": "Hushpuppies (6)",
+        "description": "Sweet cornmeal, fried golden.",
+        "price_cents": 249,
+        "is_signature": true
+      },
+      {
+        "name": "Coleslaw",
+        "description": "Creamy and freshly made.",
+        "price_cents": 249
+      }
     ]
   },
   {
@@ -580,11 +1163,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 349,
     "menu": [
-      { "name": "2 pc Fish & Chips", "description": "Battered Alaskan pollock with fries and hushpuppies.", "price_cents": 899, "is_signature": true },
-      { "name": "Chicken Plank Meal", "description": "Three battered planks with fries and hushpuppies.", "price_cents": 849 },
-      { "name": "Hushpuppies (6)", "description": "Golden fried cornmeal bites.", "price_cents": 249, "is_signature": true },
-      { "name": "Popcorn Shrimp", "description": "Bite-sized battered shrimp with cocktail sauce.", "price_cents": 799 },
-      { "name": "Coleslaw", "description": "Cool, creamy and crunchy.", "price_cents": 249 }
+      {
+        "name": "2 pc Fish & Chips",
+        "description": "Battered Alaskan pollock with fries and hushpuppies.",
+        "price_cents": 899,
+        "is_signature": true
+      },
+      {
+        "name": "Chicken Plank Meal",
+        "description": "Three battered planks with fries and hushpuppies.",
+        "price_cents": 849
+      },
+      {
+        "name": "Hushpuppies (6)",
+        "description": "Golden fried cornmeal bites.",
+        "price_cents": 249,
+        "is_signature": true
+      },
+      {
+        "name": "Popcorn Shrimp",
+        "description": "Bite-sized battered shrimp with cocktail sauce.",
+        "price_cents": 799
+      },
+      {
+        "name": "Coleslaw",
+        "description": "Cool, creamy and crunchy.",
+        "price_cents": 249
+      }
     ]
   },
   {
@@ -601,11 +1206,33 @@
     "min_order_cents": 1200,
     "service_fee_cents": 449,
     "menu": [
-      { "name": "Royal Red Robin Burger", "description": "Fried egg, bacon, cheddar, lettuce, tomato and mayo.", "price_cents": 1699, "is_signature": true },
-      { "name": "Whiskey River BBQ Burger", "description": "BBQ sauce, crispy onion straws, cheddar and lettuce.", "price_cents": 1599 },
-      { "name": "Bottomless Steak Fries", "description": "Thick cut and endlessly refilled.", "price_cents": 499, "is_signature": true },
-      { "name": "Towering Onion Rings", "description": "A tower of beer-battered rings with campfire sauce.", "price_cents": 999 },
-      { "name": "Mountain High Mudd Pie", "description": "Layers of ice cream, fudge and Oreo on a cookie crust.", "price_cents": 899 }
+      {
+        "name": "Royal Red Robin Burger",
+        "description": "Fried egg, bacon, cheddar, lettuce, tomato and mayo.",
+        "price_cents": 1699,
+        "is_signature": true
+      },
+      {
+        "name": "Whiskey River BBQ Burger",
+        "description": "BBQ sauce, crispy onion straws, cheddar and lettuce.",
+        "price_cents": 1599
+      },
+      {
+        "name": "Bottomless Steak Fries",
+        "description": "Thick cut and endlessly refilled.",
+        "price_cents": 499,
+        "is_signature": true
+      },
+      {
+        "name": "Towering Onion Rings",
+        "description": "A tower of beer-battered rings with campfire sauce.",
+        "price_cents": 999
+      },
+      {
+        "name": "Mountain High Mudd Pie",
+        "description": "Layers of ice cream, fudge and Oreo on a cookie crust.",
+        "price_cents": 899
+      }
     ]
   },
   {
@@ -622,11 +1249,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Krystal Original (4 pack)", "description": "Steamed beef sliders with mustard, onion and pickle.", "price_cents": 499, "is_signature": true },
-      { "name": "Chik Sandwich", "description": "Crispy chicken filet with mayo and pickle.", "price_cents": 349 },
-      { "name": "Chili Cheese Pup", "description": "Hot dog with chili and cheese.", "price_cents": 279 },
-      { "name": "Krystal Fries", "description": "Crispy and lightly salted.", "price_cents": 279 },
-      { "name": "Chocolate Shake", "description": "Thick and cold.", "price_cents": 399 }
+      {
+        "name": "Krystal Original (4 pack)",
+        "description": "Steamed beef sliders with mustard, onion and pickle.",
+        "price_cents": 499,
+        "is_signature": true
+      },
+      {
+        "name": "Chik Sandwich",
+        "description": "Crispy chicken filet with mayo and pickle.",
+        "price_cents": 349
+      },
+      {
+        "name": "Chili Cheese Pup",
+        "description": "Hot dog with chili and cheese.",
+        "price_cents": 279
+      },
+      {
+        "name": "Krystal Fries",
+        "description": "Crispy and lightly salted.",
+        "price_cents": 279
+      },
+      {
+        "name": "Chocolate Shake",
+        "description": "Thick and cold.",
+        "price_cents": 399
+      }
     ]
   },
   {
@@ -643,11 +1291,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 349,
     "menu": [
-      { "name": "Burrito", "description": "Flour tortilla with rice, beans, your protein and toppings.", "price_cents": 1095, "is_signature": true },
-      { "name": "Burrito Bowl", "description": "Everything in the burrito, without the tortilla.", "price_cents": 1095, "is_signature": true },
-      { "name": "Quesadilla", "description": "Melted cheese, your protein, with three sides.", "price_cents": 1195 },
-      { "name": "Chips & Guacamole", "description": "Hand-mashed guac and lime-salted chips.", "price_cents": 549 },
-      { "name": "Tacos (3)", "description": "Soft or crispy shells with your protein and toppings.", "price_cents": 1050 }
+      {
+        "name": "Burrito",
+        "description": "Flour tortilla with rice, beans, your protein and toppings.",
+        "price_cents": 1095,
+        "is_signature": true
+      },
+      {
+        "name": "Burrito Bowl",
+        "description": "Everything in the burrito, without the tortilla.",
+        "price_cents": 1095,
+        "is_signature": true
+      },
+      {
+        "name": "Quesadilla",
+        "description": "Melted cheese, your protein, with three sides.",
+        "price_cents": 1195
+      },
+      {
+        "name": "Chips & Guacamole",
+        "description": "Hand-mashed guac and lime-salted chips.",
+        "price_cents": 549
+      },
+      {
+        "name": "Tacos (3)",
+        "description": "Soft or crispy shells with your protein and toppings.",
+        "price_cents": 1050
+      }
     ]
   },
   {
@@ -664,11 +1334,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "10 pc Wings", "description": "Fried to order with your choice of sauce and fries.", "price_cents": 1199, "is_signature": true },
-      { "name": "Philly Cheesesteak", "description": "Shaved steak, peppers, onions and melted cheese.", "price_cents": 999 },
-      { "name": "Chicken Gyro", "description": "Grilled chicken, lettuce, tomato and tzatziki in pita.", "price_cents": 899 },
-      { "name": "Loaded Fries", "description": "Cheese, bacon bits and ranch.", "price_cents": 699 },
-      { "name": "Fish Sandwich", "description": "Fried whiting with lettuce and tartar sauce.", "price_cents": 849 }
+      {
+        "name": "10 pc Wings",
+        "description": "Fried to order with your choice of sauce and fries.",
+        "price_cents": 1199,
+        "is_signature": true
+      },
+      {
+        "name": "Philly Cheesesteak",
+        "description": "Shaved steak, peppers, onions and melted cheese.",
+        "price_cents": 999
+      },
+      {
+        "name": "Chicken Gyro",
+        "description": "Grilled chicken, lettuce, tomato and tzatziki in pita.",
+        "price_cents": 899
+      },
+      {
+        "name": "Loaded Fries",
+        "description": "Cheese, bacon bits and ranch.",
+        "price_cents": 699
+      },
+      {
+        "name": "Fish Sandwich",
+        "description": "Fried whiting with lettuce and tartar sauce.",
+        "price_cents": 849
+      }
     ]
   },
   {
@@ -685,11 +1376,33 @@
     "min_order_cents": 1500,
     "service_fee_cents": 499,
     "menu": [
-      { "name": "Chicken Alfredo", "description": "Grilled chicken over fettuccine in a creamy alfredo.", "price_cents": 1899, "is_signature": true },
-      { "name": "Lasagna Classico", "description": "Layers of pasta, meat sauce, ricotta, mozzarella and parmesan.", "price_cents": 1799 },
-      { "name": "Tour of Italy", "description": "Chicken parmigiana, lasagna and fettuccine alfredo on one plate.", "price_cents": 2299, "is_signature": true },
-      { "name": "Unlimited Soup & Salad", "description": "Endless salad, breadsticks and your choice of soup.", "price_cents": 1399 },
-      { "name": "Zeppoli", "description": "Warm Italian doughnuts with chocolate sauce.", "price_cents": 799 }
+      {
+        "name": "Chicken Alfredo",
+        "description": "Grilled chicken over fettuccine in a creamy alfredo.",
+        "price_cents": 1899,
+        "is_signature": true
+      },
+      {
+        "name": "Lasagna Classico",
+        "description": "Layers of pasta, meat sauce, ricotta, mozzarella and parmesan.",
+        "price_cents": 1799
+      },
+      {
+        "name": "Tour of Italy",
+        "description": "Chicken parmigiana, lasagna and fettuccine alfredo on one plate.",
+        "price_cents": 2299,
+        "is_signature": true
+      },
+      {
+        "name": "Unlimited Soup & Salad",
+        "description": "Endless salad, breadsticks and your choice of soup.",
+        "price_cents": 1399
+      },
+      {
+        "name": "Zeppoli",
+        "description": "Warm Italian doughnuts with chocolate sauce.",
+        "price_cents": 799
+      }
     ]
   },
   {
@@ -706,11 +1419,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Box Combo", "description": "Four fingers, fries, Texas toast, coleslaw and Cane's Sauce.", "price_cents": 1099, "is_signature": true },
-      { "name": "3 Finger Combo", "description": "Three fingers, fries, Texas toast and Cane's Sauce.", "price_cents": 949 },
-      { "name": "Caniac Combo", "description": "Six fingers, fries, Texas toast, coleslaw and extra sauce.", "price_cents": 1499 },
-      { "name": "Crinkle-Cut Fries", "description": "Fresh, never frozen, crinkle cut.", "price_cents": 349 },
-      { "name": "Extra Cane's Sauce", "description": "The reason you came.", "price_cents": 79, "is_signature": true }
+      {
+        "name": "Box Combo",
+        "description": "Four fingers, fries, Texas toast, coleslaw and Cane's Sauce.",
+        "price_cents": 1099,
+        "is_signature": true
+      },
+      {
+        "name": "3 Finger Combo",
+        "description": "Three fingers, fries, Texas toast and Cane's Sauce.",
+        "price_cents": 949
+      },
+      {
+        "name": "Caniac Combo",
+        "description": "Six fingers, fries, Texas toast, coleslaw and extra sauce.",
+        "price_cents": 1499
+      },
+      {
+        "name": "Crinkle-Cut Fries",
+        "description": "Fresh, never frozen, crinkle cut.",
+        "price_cents": 349
+      },
+      {
+        "name": "Extra Cane's Sauce",
+        "description": "The reason you came.",
+        "price_cents": 79,
+        "is_signature": true
+      }
     ]
   },
   {
@@ -727,11 +1462,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 399,
     "menu": [
-      { "name": "Broccoli Cheddar Soup (Bread Bowl)", "description": "The signature soup served in a sourdough bread bowl.", "price_cents": 899, "is_signature": true },
-      { "name": "You Pick Two", "description": "Choose any two: half sandwich, half salad or cup of soup.", "price_cents": 1299, "is_signature": true },
-      { "name": "Chipotle Chicken Avocado Melt", "description": "Smoked chicken, avocado, gouda and chipotle mayo on sourdough.", "price_cents": 1299 },
-      { "name": "Greek Salad", "description": "Romaine, feta, olives, tomatoes and Greek dressing.", "price_cents": 999 },
-      { "name": "Cinnamon Crunch Bagel", "description": "Baked fresh, topped with cinnamon crunch.", "price_cents": 349 }
+      {
+        "name": "Broccoli Cheddar Soup (Bread Bowl)",
+        "description": "The signature soup served in a sourdough bread bowl.",
+        "price_cents": 899,
+        "is_signature": true
+      },
+      {
+        "name": "You Pick Two",
+        "description": "Choose any two: half sandwich, half salad or cup of soup.",
+        "price_cents": 1299,
+        "is_signature": true
+      },
+      {
+        "name": "Chipotle Chicken Avocado Melt",
+        "description": "Smoked chicken, avocado, gouda and chipotle mayo on sourdough.",
+        "price_cents": 1299
+      },
+      {
+        "name": "Greek Salad",
+        "description": "Romaine, feta, olives, tomatoes and Greek dressing.",
+        "price_cents": 999
+      },
+      {
+        "name": "Cinnamon Crunch Bagel",
+        "description": "Baked fresh, topped with cinnamon crunch.",
+        "price_cents": 349
+      }
     ]
   },
   {
@@ -748,11 +1505,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 349,
     "menu": [
-      { "name": "Jamaican Beef Patty", "description": "Flaky golden pastry with seasoned beef filling.", "price_cents": 349, "is_signature": true },
-      { "name": "Curry Chicken", "description": "Slow-cooked curry chicken with rice and peas.", "price_cents": 1199 },
-      { "name": "Oxtail", "description": "Braised until falling apart, with rice and peas.", "price_cents": 1699, "is_signature": true },
-      { "name": "Jerk Chicken", "description": "Marinated in jerk spice and grilled.", "price_cents": 1299 },
-      { "name": "Rice & Peas", "description": "Coconut rice with kidney beans.", "price_cents": 499 }
+      {
+        "name": "Jamaican Beef Patty",
+        "description": "Flaky golden pastry with seasoned beef filling.",
+        "price_cents": 349,
+        "is_signature": true
+      },
+      {
+        "name": "Curry Chicken",
+        "description": "Slow-cooked curry chicken with rice and peas.",
+        "price_cents": 1199
+      },
+      {
+        "name": "Oxtail",
+        "description": "Braised until falling apart, with rice and peas.",
+        "price_cents": 1699,
+        "is_signature": true
+      },
+      {
+        "name": "Jerk Chicken",
+        "description": "Marinated in jerk spice and grilled.",
+        "price_cents": 1299
+      },
+      {
+        "name": "Rice & Peas",
+        "description": "Coconut rice with kidney beans.",
+        "price_cents": 499
+      }
     ]
   },
   {
@@ -769,11 +1548,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Hot-N-Ready Pepperoni", "description": "Large round pizza, ready when you are.", "price_cents": 699, "is_signature": true },
-      { "name": "ExtraMostBestest Pepperoni", "description": "More cheese and more pepperoni than the classic.", "price_cents": 799 },
-      { "name": "Crazy Bread (8)", "description": "Warm breadsticks with parmesan and butter.", "price_cents": 429, "is_signature": true },
-      { "name": "Italian Cheese Bread", "description": "Ten pieces topped with cheese and Italian spices.", "price_cents": 599 },
-      { "name": "Caesar Wings (8)", "description": "Oven-roasted with your choice of sauce.", "price_cents": 899 }
+      {
+        "name": "Hot-N-Ready Pepperoni",
+        "description": "Large round pizza, ready when you are.",
+        "price_cents": 699,
+        "is_signature": true
+      },
+      {
+        "name": "ExtraMostBestest Pepperoni",
+        "description": "More cheese and more pepperoni than the classic.",
+        "price_cents": 799
+      },
+      {
+        "name": "Crazy Bread (8)",
+        "description": "Warm breadsticks with parmesan and butter.",
+        "price_cents": 429,
+        "is_signature": true
+      },
+      {
+        "name": "Italian Cheese Bread",
+        "description": "Ten pieces topped with cheese and Italian spices.",
+        "price_cents": 599
+      },
+      {
+        "name": "Caesar Wings (8)",
+        "description": "Oven-roasted with your choice of sauce.",
+        "price_cents": 899
+      }
     ]
   },
   {
@@ -790,11 +1591,32 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Footlong Italian B.M.T.", "description": "Genoa salami, spicy pepperoni and Black Forest ham.", "price_cents": 1099, "is_signature": true },
-      { "name": "Footlong Oven Roasted Turkey", "description": "Sliced turkey with your choice of veg and sauce.", "price_cents": 1049 },
-      { "name": "6-inch Meatball Marinara", "description": "Meatballs in marinara with parmesan.", "price_cents": 599 },
-      { "name": "Cookies (3)", "description": "Baked in store daily.", "price_cents": 129 },
-      { "name": "Chips", "description": "Choice of crisps.", "price_cents": 219 }
+      {
+        "name": "Footlong Italian B.M.T.",
+        "description": "Genoa salami, spicy pepperoni and Black Forest ham.",
+        "price_cents": 1099,
+        "is_signature": true
+      },
+      {
+        "name": "Footlong Oven Roasted Turkey",
+        "description": "Sliced turkey with your choice of veg and sauce.",
+        "price_cents": 1049
+      },
+      {
+        "name": "6-inch Meatball Marinara",
+        "description": "Meatballs in marinara with parmesan.",
+        "price_cents": 599
+      },
+      {
+        "name": "Cookies (3)",
+        "description": "Baked in store daily.",
+        "price_cents": 129
+      },
+      {
+        "name": "Chips",
+        "description": "Choice of crisps.",
+        "price_cents": 219
+      }
     ]
   },
   {
@@ -811,11 +1633,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Big John", "description": "Medium rare roast beef, lettuce, tomato and mayo.", "price_cents": 799, "is_signature": true },
-      { "name": "Turkey Tom", "description": "Turkey breast, lettuce, tomato and mayo.", "price_cents": 799 },
-      { "name": "Beach Club", "description": "Turkey, provolone, avocado spread, cucumber, lettuce and tomato.", "price_cents": 999, "is_signature": true },
-      { "name": "Jimmy Chips", "description": "Kettle-cooked crisps.", "price_cents": 199 },
-      { "name": "Chocolate Chunk Cookie", "description": "Baked fresh daily.", "price_cents": 249 }
+      {
+        "name": "Big John",
+        "description": "Medium rare roast beef, lettuce, tomato and mayo.",
+        "price_cents": 799,
+        "is_signature": true
+      },
+      {
+        "name": "Turkey Tom",
+        "description": "Turkey breast, lettuce, tomato and mayo.",
+        "price_cents": 799
+      },
+      {
+        "name": "Beach Club",
+        "description": "Turkey, provolone, avocado spread, cucumber, lettuce and tomato.",
+        "price_cents": 999,
+        "is_signature": true
+      },
+      {
+        "name": "Jimmy Chips",
+        "description": "Kettle-cooked crisps.",
+        "price_cents": 199
+      },
+      {
+        "name": "Chocolate Chunk Cookie",
+        "description": "Baked fresh daily.",
+        "price_cents": 249
+      }
     ]
   },
   {
@@ -832,11 +1676,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Original Italian (Regular)", "description": "Provolone, ham, prosciuttini, cappacuolo, salami and pepperoni.", "price_cents": 1099, "is_signature": true },
-      { "name": "Big Kahuna Cheese Steak", "description": "Grilled steak with onions, peppers, mushrooms and cheese.", "price_cents": 1299, "is_signature": true },
-      { "name": "Turkey & Provolone", "description": "Sliced fresh with your choice of toppings.", "price_cents": 1049 },
-      { "name": "Chips", "description": "Choice of crisps.", "price_cents": 199 },
-      { "name": "Cookie", "description": "Baked fresh.", "price_cents": 199 }
+      {
+        "name": "Original Italian (Regular)",
+        "description": "Provolone, ham, prosciuttini, cappacuolo, salami and pepperoni.",
+        "price_cents": 1099,
+        "is_signature": true
+      },
+      {
+        "name": "Big Kahuna Cheese Steak",
+        "description": "Grilled steak with onions, peppers, mushrooms and cheese.",
+        "price_cents": 1299,
+        "is_signature": true
+      },
+      {
+        "name": "Turkey & Provolone",
+        "description": "Sliced fresh with your choice of toppings.",
+        "price_cents": 1049
+      },
+      {
+        "name": "Chips",
+        "description": "Choice of crisps.",
+        "price_cents": 199
+      },
+      {
+        "name": "Cookie",
+        "description": "Baked fresh.",
+        "price_cents": 199
+      }
     ]
   },
   {
@@ -853,11 +1719,33 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "Classic Roast Beef", "description": "Slow-roasted beef piled on a toasted sesame seed bun.", "price_cents": 599, "is_signature": true },
-      { "name": "Beef 'n Cheddar", "description": "Roast beef, cheddar sauce and red ranch on an onion roll.", "price_cents": 749, "is_signature": true },
-      { "name": "Curly Fries", "description": "Seasoned and curled.", "price_cents": 349 },
-      { "name": "Chicken Bacon Swiss", "description": "Crispy chicken, pepper bacon, Swiss and honey mustard.", "price_cents": 799 },
-      { "name": "Jamocha Shake", "description": "Coffee and chocolate, hand-spun.", "price_cents": 429 }
+      {
+        "name": "Classic Roast Beef",
+        "description": "Slow-roasted beef piled on a toasted sesame seed bun.",
+        "price_cents": 599,
+        "is_signature": true
+      },
+      {
+        "name": "Beef 'n Cheddar",
+        "description": "Roast beef, cheddar sauce and red ranch on an onion roll.",
+        "price_cents": 749,
+        "is_signature": true
+      },
+      {
+        "name": "Curly Fries",
+        "description": "Seasoned and curled.",
+        "price_cents": 349
+      },
+      {
+        "name": "Chicken Bacon Swiss",
+        "description": "Crispy chicken, pepper bacon, Swiss and honey mustard.",
+        "price_cents": 799
+      },
+      {
+        "name": "Jamocha Shake",
+        "description": "Coffee and chocolate, hand-spun.",
+        "price_cents": 429
+      }
     ]
   },
   {
@@ -874,11 +1762,33 @@
     "min_order_cents": 1000,
     "service_fee_cents": 449,
     "menu": [
-      { "name": "Original Buttermilk Pancakes (5)", "description": "A full stack with whipped real butter and syrup.", "price_cents": 999, "is_signature": true },
-      { "name": "Big Steak Omelette", "description": "Steak, hash browns, green peppers, onions and cheese.", "price_cents": 1499 },
-      { "name": "Brioche French Toast", "description": "Thick-cut brioche, dusted with powdered sugar.", "price_cents": 1199, "is_signature": true },
-      { "name": "Chicken & Pancakes", "description": "Crispy chicken strips with buttermilk pancakes.", "price_cents": 1499 },
-      { "name": "Belgian Waffle", "description": "Golden and crisp with whipped butter and syrup.", "price_cents": 1099 }
+      {
+        "name": "Original Buttermilk Pancakes (5)",
+        "description": "A full stack with whipped real butter and syrup.",
+        "price_cents": 999,
+        "is_signature": true
+      },
+      {
+        "name": "Big Steak Omelette",
+        "description": "Steak, hash browns, green peppers, onions and cheese.",
+        "price_cents": 1499
+      },
+      {
+        "name": "Brioche French Toast",
+        "description": "Thick-cut brioche, dusted with powdered sugar.",
+        "price_cents": 1199,
+        "is_signature": true
+      },
+      {
+        "name": "Chicken & Pancakes",
+        "description": "Crispy chicken strips with buttermilk pancakes.",
+        "price_cents": 1499
+      },
+      {
+        "name": "Belgian Waffle",
+        "description": "Golden and crisp with whipped butter and syrup.",
+        "price_cents": 1099
+      }
     ]
   },
   {
@@ -895,11 +1805,78 @@
     "min_order_cents": 0,
     "service_fee_cents": 299,
     "menu": [
-      { "name": "All-Star Special", "description": "Waffle, eggs, hashbrowns, toast and your choice of meat.", "price_cents": 1099, "is_signature": true },
-      { "name": "Pecan Waffle", "description": "The original waffle with pecans in the batter.", "price_cents": 649, "is_signature": true },
-      { "name": "Hashbrowns (Scattered & Smothered)", "description": "Grilled with onions. Add cheese, chili or gravy.", "price_cents": 349 },
-      { "name": "Patty Melt", "description": "Beef patty with grilled onions and cheese on rye.", "price_cents": 899 },
-      { "name": "Bacon, Egg & Cheese Sandwich", "description": "On toasted white bread.", "price_cents": 649 }
+      {
+        "name": "All-Star Special",
+        "description": "Waffle, eggs, hashbrowns, toast and your choice of meat.",
+        "price_cents": 1099,
+        "is_signature": true
+      },
+      {
+        "name": "Pecan Waffle",
+        "description": "The original waffle with pecans in the batter.",
+        "price_cents": 649,
+        "is_signature": true
+      },
+      {
+        "name": "Hashbrowns (Scattered & Smothered)",
+        "description": "Grilled with onions. Add cheese, chili or gravy.",
+        "price_cents": 349
+      },
+      {
+        "name": "Patty Melt",
+        "description": "Beef patty with grilled onions and cheese on rye.",
+        "price_cents": 899
+      },
+      {
+        "name": "Bacon, Egg & Cheese Sandwich",
+        "description": "On toasted white bread.",
+        "price_cents": 649
+      }
+    ]
+  },
+  {
+    "slug": "longhorn-steakhouse",
+    "name": "LongHorn Steakhouse",
+    "tagline": "Grilled over an open flame",
+    "cuisine": "Steakhouse",
+    "description": "Hand-cut steaks seasoned and seared over an open flame, with Texas-sized sides.",
+    "address_line": "1294 Iris Dr SW",
+    "city": "Conyers",
+    "postcode": "30094",
+    "lat": 33.6551,
+    "lng": -84.0186,
+    "price_level": 3,
+    "prep_time_mins": 28,
+    "min_order_cents": 2000,
+    "service_fee_cents": 599,
+    "menu": [
+      {
+        "name": "Outlaw Ribeye",
+        "description": "18oz bone-in ribeye, well marbled and fire-grilled.",
+        "price_cents": 2899,
+        "is_signature": true
+      },
+      {
+        "name": "Flo’s Filet",
+        "description": "The most tender cut, seasoned and seared.",
+        "price_cents": 2699,
+        "is_signature": true
+      },
+      {
+        "name": "Renegade Sirloin",
+        "description": "Centre-cut sirloin with two freshly made sides.",
+        "price_cents": 1799
+      },
+      {
+        "name": "Parmesan Crusted Chicken",
+        "description": "Grilled chicken under a parmesan and provolone crust.",
+        "price_cents": 1999
+      },
+      {
+        "name": "Texas Tonion",
+        "description": "Hand-battered whole onion with spicy prairie dust.",
+        "price_cents": 999
+      }
     ]
   }
 ]

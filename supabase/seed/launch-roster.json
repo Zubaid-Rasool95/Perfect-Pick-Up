@@ -1,0 +1,35 @@
+{
+  "_comment": [
+    "The venues approved for launch, in the client's actual service area",
+    "(Conyers, Rockdale County GA). Everything not listed here is hidden from",
+    "the storefront rather than deleted, so it can be republished from the",
+    "admin panel at any time.",
+    "",
+    "Street addresses were taken from each brand's own store locator and",
+    "cross-checked against a second independent source. Anything marked",
+    "needs_confirmation is NOT verified and must be checked before launch.",
+    "",
+    "Coordinates are geocoded from these addresses by scripts/set-launch-roster.mjs."
+  ],
+
+  "serviceZips": ["30094", "30013", "30016", "30012", "30014"],
+
+  "venues": [
+    {
+      "slug": "mcdonalds",
+      "address_line": "West Avenue",
+      "postcode": "30012",
+      "needs_confirmation": "Client approved only the West Ave store. Street number unconfirmed — search returned Old Klondike Rd for the 'West Avenue' branch, which is contradictory. Confirm with client.",
+      "source": "client instruction, 16/08"
+    },
+    { "slug": "churchs-chicken",     "address_line": "405 Sigman Rd NW, Ste 100", "postcode": "30012", "source": "yellowpages + foursquare + fastfoodinusa" },
+    { "slug": "long-john-silvers",   "address_line": "1450 Highway 138 SE",       "postcode": "30013", "source": "allmenus + menuwithprice + yellowpages" },
+    { "slug": "olive-garden",        "address_line": "1522 Pine Log Rd NE",       "postcode": "30012", "source": "yellowpages" },
+    { "slug": "outback-steakhouse",  "address_line": "1188 Dogwood Dr SE",        "postcode": "30012", "source": "locations.outback.com (official) + yelp + grubhub" },
+    { "slug": "longhorn-steakhouse", "address_line": "1294 Iris Dr SW",           "postcode": "30094", "source": "waze + yellowpages + cmac" },
+    { "slug": "chilis",              "address_line": "1570 Dogwood Dr SE",        "postcode": "30013", "source": "chilis.com (official) + doordash + tripadvisor" },
+    { "slug": "applebees",           "address_line": "1448 Dogwood Dr SE",        "postcode": "30013", "source": "restaurants.applebees.com (official) + yelp" },
+    { "slug": "red-lobster",         "address_line": "1560 Dogwood Dr SE",        "postcode": "30013", "source": "redlobster.com (official) + waze + yelp" },
+    { "slug": "panda-express",       "address_line": "2239 Highway 20 SE, Ste L", "postcode": "30013", "source": "pandaexpress.com (official) + ubereats" }
+  ]
+}
